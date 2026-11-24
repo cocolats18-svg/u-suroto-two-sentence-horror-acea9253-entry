@@ -1,7 +1,8 @@
 # Two-Sentence Horror
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253?utm_source=github)
-[![Two-Sentence Horror](https://img.shields.io/badge/Two--Sentence%20Horror-entry-blue)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253?utm_source=github)
+[![make.fun · u-suroto-two-sentence-horror-acea9253](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-two-sentence-horror-acea9253)
+[![rank](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/cocolats18-svg/u-suroto-two-sentence-horror-acea9253-entry/rank.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-two-sentence-horror-acea9253)
+[![reward](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/cocolats18-svg/u-suroto-two-sentence-horror-acea9253-entry/reward.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-two-sentence-horror-acea9253)
 
 An original two-sentence horror story, written by a deterministic Node 22 program (`main.ts`, standard library only) that writes the entry to `entry.txt`.
 
